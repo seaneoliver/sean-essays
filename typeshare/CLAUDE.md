@@ -1,4 +1,4 @@
-# Typeshare — Atomic Essays
+# Typeshare: Atomic Essays
 
 Single-idea essays from https://typeshare.co/seanoliver, ingested in
 chronological order (oldest first). Each folder is `NN-slug/` with `article.md`,

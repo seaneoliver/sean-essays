@@ -11,12 +11,12 @@ can be useful even when Sean is not in the room.
 
 ## What's in here
 
-**Substack — Sean's Newsletter** (https://seanoliver.substack.com/): essays on
+**Substack, Sean's Newsletter** (https://seanoliver.substack.com/): essays on
 decision-making with data, AI collaboration, career visibility, meetings,
 writing, and how individual contributors stay legible inside large
 organizations.
 
-**Typeshare — Atomic essays** (https://typeshare.co/seanoliver): shorter
+**Typeshare, atomic essays** (https://typeshare.co/seanoliver): shorter
 single-idea essays. Ingestion in progress.
 
 The full article index, topic lookup, and per-essay section maps live in

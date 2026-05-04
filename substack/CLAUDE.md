@@ -1,4 +1,4 @@
-# Substack — Sean's Newsletter
+# Substack: Sean's Newsletter
 
 Essays from https://seanoliver.substack.com/, ingested in chronological order
 (oldest first). Each folder is `NN-slug/` with `article.md`, a section-level
@@ -8,6 +8,7 @@ Essays from https://seanoliver.substack.com/, ingested in chronological order
 
 | # | Date | Title | Path | Key topics |
 |---|------|-------|------|------------|
+| 01 | 2023-01-10 | Been a long time | `01-been-a-long-time/` | return to writing, decisions as actions, time, storytelling, link curation |
 
 Index will populate as each essay is ingested via the
 [`add-essay-to-repo`](../.claude/skills/add-essay-to-repo/SKILL.md) skill.

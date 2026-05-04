@@ -7,3 +7,7 @@ node_modules/
 *.log
 .idea/
 .vscode/
+
+# Override Sean's global gitignore - this repo intentionally tracks .claude/
+!.claude/
+!.claude/**
