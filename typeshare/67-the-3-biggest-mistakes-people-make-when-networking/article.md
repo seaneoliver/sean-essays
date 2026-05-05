@@ -1,6 +1,6 @@
 ---
 title: "The 3 Biggest Mistakes People Make When Networking  "
-subtitle: "Mistake 1: Treating it like an eventNetworking isn't a one-time effort.Consistency is key. Strong ne"
+subtitle: "Networking isn't a one-time effort."
 authors:
   - name: "Sean Oliver"
     publication:

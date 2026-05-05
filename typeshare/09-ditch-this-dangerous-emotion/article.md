@@ -1,6 +1,6 @@
 ---
 title: "Ditch This Dangerous Emotion"
-subtitle: "Hope is one of the most dangerous of emotions.Hope is the cotton candy of belief. It tastes great. C"
+subtitle: "Hope is one of the most dangerous of emotions.Hope is the cotton candy of belief. It tastes great."
 authors:
   - name: "Sean Oliver"
     publication:

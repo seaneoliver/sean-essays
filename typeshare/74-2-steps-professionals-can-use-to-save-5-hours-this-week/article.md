@@ -1,6 +1,6 @@
 ---
 title: "2 Steps Professionals Can Use To Save 5 Hours This Week"
-subtitle: ""
+subtitle: "In today’s work environment, we often find ourselves stacked in back-to-back meetings, many of which seem to have no value."
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,8 +1,6 @@
 ---
 title: "3 Technology Add-ons to Aid Your Note-Taking"
-subtitle: "Analog first notes are my default recommendation.
-
-It would be a mistake to ignore the adv"
+subtitle: "Analog first notes are my default recommendation."
 authors:
   - name: "Sean Oliver"
     publication:

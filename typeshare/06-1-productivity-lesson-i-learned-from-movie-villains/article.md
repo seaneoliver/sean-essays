@@ -1,6 +1,6 @@
 ---
 title: "1 Productivity Lesson For Modern Workers To Get More Done Today"
-subtitle: "Take action.Do something. Anything. Be proactive.All of my favorite movies have a strong villain who"
+subtitle: "Take action."
 authors:
   - name: "Sean Oliver"
     publication:

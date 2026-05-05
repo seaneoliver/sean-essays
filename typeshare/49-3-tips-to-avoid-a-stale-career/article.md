@@ -1,6 +1,6 @@
 ---
 title: "3 Tips To Avoid A Stale Career"
-subtitle: "To avoid stagnation in your career, take ownership of your career path and make your next "
+subtitle: "To avoid stagnation in your career, take ownership of your career path and make your next move."
 authors:
   - name: "Sean Oliver"
     publication:

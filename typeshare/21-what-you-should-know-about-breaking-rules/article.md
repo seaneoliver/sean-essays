@@ -1,6 +1,6 @@
 ---
 title: "What You Should Know About Breaking Rules"
-subtitle: "Break rules. Respect laws.When was the last time you broke a rule? What happened?For the record, it "
+subtitle: "Break rules. Respect laws."
 authors:
   - name: "Sean Oliver"
     publication:

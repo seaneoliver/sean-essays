@@ -1,6 +1,6 @@
 ---
 title: "15 Remote Work Productivity Tips"
-subtitle: "Working from home requires you to create a productive environment. These are 15 tips that may help y"
+subtitle: "What would you remove?"
 authors:
   - name: "Sean Oliver"
     publication:

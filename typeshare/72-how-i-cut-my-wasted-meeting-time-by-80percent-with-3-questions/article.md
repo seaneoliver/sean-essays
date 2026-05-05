@@ -1,6 +1,6 @@
 ---
 title: "How I Cut My Wasted Meeting Time by 80% With 3 Questions"
-subtitle: "3 simple questions to win back your time"
+subtitle: "If you're like me, you've found yourself with a calendar packed with meetings."
 authors:
   - name: "Sean Oliver"
     publication:

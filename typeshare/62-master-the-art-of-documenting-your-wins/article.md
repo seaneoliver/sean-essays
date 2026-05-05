@@ -1,6 +1,6 @@
 ---
 title: "Master the Art of Documenting Your Wins"
-subtitle: ""
+subtitle: "With 8 billion people on the planet, no one is closer to your success than you."
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,6 +1,6 @@
 ---
 title: "Do You Use Your Blinker?"
-subtitle: "Remember that time you were driving, and that #%&amp;! cut you off?It's maddening.Why didn't they us"
+subtitle: "Remember that time you were driving, and that #%&amp;! cut you off?"
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,6 +1,6 @@
 ---
 title: "How To Get Your Whites Their Whitest"
-subtitle: "This essay isn't about race.It's about the tried &amp; true recipe for keeping your laundry sparklin"
+subtitle: "This essay isn't about race."
 authors:
   - name: "Sean Oliver"
     publication:

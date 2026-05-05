@@ -1,6 +1,6 @@
 ---
 title: "You can learn a lot from your first job"
-subtitle: "I was a 19-year-old working with juvenile sex offenders, feces smearing, deviants.My first job in co"
+subtitle: "I was a 19-year-old working with juvenile sex offenders, feces smearing, deviants."
 authors:
   - name: "Sean Oliver"
     publication:

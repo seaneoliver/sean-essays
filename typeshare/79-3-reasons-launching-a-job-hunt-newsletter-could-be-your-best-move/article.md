@@ -1,6 +1,6 @@
 ---
 title: "3 Reasons Launching a Job Hunt Newsletter Could Be Your Best Move"
-subtitle: ""
+subtitle: "Launching a job search newsletter might be the strategic edge you need in your career playbook."
 authors:
   - name: "Sean Oliver"
     publication:

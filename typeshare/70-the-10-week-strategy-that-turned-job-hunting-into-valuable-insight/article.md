@@ -1,6 +1,6 @@
 ---
 title: "The 10-Week Strategy That Turned Job Hunting Into Valuable Insight"
-subtitle: "Job hunting is a drag.But despite being one of the hardest things in the world, most people have no "
+subtitle: "Quick Stats About Job Referrals"
 authors:
   - name: "Sean Oliver"
     publication:

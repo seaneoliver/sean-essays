@@ -1,6 +1,6 @@
 ---
 title: "3 Questions I Asked Myself Every Day for 8+ Years"
-subtitle: "I always thought journaling was dumb.Why on earth would I want to write down my secret hopes and dre"
+subtitle: "I always thought journaling was dumb."
 authors:
   - name: "Sean Oliver"
     publication:

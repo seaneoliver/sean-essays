@@ -1,6 +1,6 @@
 ---
 title: "The 1 Key Quality You Miss When You Only See Positive and Negative"
-subtitle: "The 1 key quality you miss when you only see positive and negativeYou miss neutral.That was a terrib"
+subtitle: "You miss neutral."
 authors:
   - name: "Sean Oliver"
     publication:

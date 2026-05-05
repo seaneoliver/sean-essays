@@ -1,8 +1,6 @@
 ---
 title: "An Unexpected Strategy for Keeping Your Notes Organized & Clutter at Bay"
-subtitle: "Well-organized notes can make or break your productivity.
-
-I've made mistakes on my note-t"
+subtitle: "Well-organized notes can make or break your productivity."
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,6 +1,6 @@
 ---
 title: "4 Controversial Opinions On Meetings 99% Of The World Agrees With - But I Do Not"
-subtitle: "I have had an interest in productivity for a long time.In the past 15 years, I have heard many stron"
+subtitle: "So, I have a controversial opinion I’d like to share on meetings after 10,000 hours immersing myself in the subject"
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,6 +1,6 @@
 ---
 title: "Avoid This Networking Mistake And Watch Your Relationships Improve"
-subtitle: ""
+subtitle: "Expanding your network is a powerful way to unlock new opportunities and open doors that you may not have even known existed."
 authors:
   - name: "Sean Oliver"
     publication:

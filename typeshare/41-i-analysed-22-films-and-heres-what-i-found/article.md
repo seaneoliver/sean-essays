@@ -1,6 +1,6 @@
 ---
 title: " I Analysed 22 Films And Here's What I Found "
-subtitle: "You're probably looking at your content the wrong way.You're thinking too small.You can learn a less"
+subtitle: "You're probably looking at your content the wrong way."
 authors:
   - name: "Sean Oliver"
     publication:

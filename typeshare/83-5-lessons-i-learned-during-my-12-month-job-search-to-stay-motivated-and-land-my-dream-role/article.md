@@ -1,6 +1,6 @@
 ---
 title: "5 Lessons I Learned During My 12-Month Job Search to Stay Motivated and Land My Dream Role"
-subtitle: "How I stayed motivated during my job hunt"
+subtitle: "Did you know that the average job search lasts 5 months?"
 authors:
   - name: "Sean Oliver"
     publication:

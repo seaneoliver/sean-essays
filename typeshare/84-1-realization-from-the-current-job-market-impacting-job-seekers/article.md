@@ -1,6 +1,6 @@
 ---
 title: "1 Realization From The Current Job Market Impacting Job Seekers"
-subtitle: "Adapt your approach to fit the market realities"
+subtitle: "Many job seekers are out of sync with the fast-paced market, resorting to gimmicks or shunning powerful platforms like LinkedIn with its vast user base."
 authors:
   - name: "Sean Oliver"
     publication:

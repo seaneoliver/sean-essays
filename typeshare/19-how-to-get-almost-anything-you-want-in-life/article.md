@@ -1,6 +1,6 @@
 ---
 title: "How To Get Almost Anything You Want In Life"
-subtitle: "Is there something you want in your life right now?A better job? A move? More time with family and f"
+subtitle: "Is there something you want in your life right now?"
 authors:
   - name: "Sean Oliver"
     publication:

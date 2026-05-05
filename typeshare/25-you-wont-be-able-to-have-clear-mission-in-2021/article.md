@@ -1,6 +1,6 @@
 ---
 title: "	You Won't Be Able To Have Clear Mission In 2021"
-subtitle: "Unless you write it down.Get any piece of paper. Grab a pen. Now write down why you are here.Look at"
+subtitle: "Unless you write it down."
 authors:
   - name: "Sean Oliver"
     publication:

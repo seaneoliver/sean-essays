@@ -1,6 +1,6 @@
 ---
 title: "10 Things I'd Tell My Myself 2 Years Ago"
-subtitle: "Life instructs if you let it.Reflecting on my journal the last 2 years revealed a few insights for m"
+subtitle: "Life instructs if you let it."
 authors:
   - name: "Sean Oliver"
     publication:

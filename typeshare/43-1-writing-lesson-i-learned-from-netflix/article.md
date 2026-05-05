@@ -1,6 +1,6 @@
 ---
 title: "1 Writing Lesson I Learned From Netflix"
-subtitle: "Stealing writing lessons from billion-dollar companies"
+subtitle: "I've watched a LOT of Netflix during Covid."
 authors:
   - name: "Sean Oliver"
     publication:

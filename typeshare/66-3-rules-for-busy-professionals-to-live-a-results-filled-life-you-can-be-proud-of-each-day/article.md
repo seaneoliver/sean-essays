@@ -1,6 +1,6 @@
 ---
 title: "3 Rules For Busy Professionals To Live A Results-Filled Life You Can Be Proud Of Each Day"
-subtitle: "Over the past 10+ years, I have:Connected with best-selling authorsWorked at 3 Fortune 500 companies"
+subtitle: "Own your output"
 authors:
   - name: "Sean Oliver"
     publication:

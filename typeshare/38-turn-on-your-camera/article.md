@@ -1,6 +1,6 @@
 ---
 title: "Turn On Your Camera"
-subtitle: "My strongest sense is my vision.I notice folk's expressions. Facial, physical, you name it.The littl"
+subtitle: "My strongest sense is my vision."
 authors:
   - name: "Sean Oliver"
     publication:

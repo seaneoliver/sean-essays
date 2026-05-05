@@ -1,6 +1,6 @@
 ---
 title: "Why Good Questions and Clear Thinking Are the Real AI Leverage"
-subtitle: "If you're applying AI like everyone else, you're already playing the hardest game.Most people treat "
+subtitle: "If you're applying AI like everyone else, you're already playing the hardest game."
 authors:
   - name: "Sean Oliver"
     publication:

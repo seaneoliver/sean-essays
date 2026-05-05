@@ -1,6 +1,6 @@
 ---
 title: "A Reminder: It's Not About You"
-subtitle: "Your opinion doesn't matter.It's hard to hear. It's also true. The only thing unique about your opin"
+subtitle: "That doesn't mean it's important."
 authors:
   - name: "Sean Oliver"
     publication:

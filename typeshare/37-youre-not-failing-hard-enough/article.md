@@ -1,6 +1,6 @@
 ---
 title: "You're Not Failing Hard Enough"
-subtitle: "Failure is a good thing.You can use it to your advantage. Follow me here. Pick a thing that you want"
+subtitle: "Failure is a good thing."
 authors:
   - name: "Sean Oliver"
     publication:

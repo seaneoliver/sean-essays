@@ -1,6 +1,6 @@
 ---
 title: "This 1 Error Is Killing Your Job Search"
-subtitle: "Expand your presence"
+subtitle: "A common trap many job seekers fall into is the silence trap."
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,8 +1,6 @@
 ---
 title: "4 Ways To Create An Unfair Advantage With Your Personal Knowledge Base"
-subtitle: "To succeed in today's rapidly changing world, having a competitive edge is essential.
-
-Bui"
+subtitle: "To succeed in today's rapidly changing world, having a competitive edge is essential."
 authors:
   - name: "Sean Oliver"
     publication:

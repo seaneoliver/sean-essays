@@ -1,6 +1,6 @@
 ---
 title: "3 Ways to Break Out of Your Comfort Zone and Build Meaningful Connections"
-subtitle: "Specific actions you can take to build your network"
+subtitle: "The bigger your network, the broader your opportunities."
 authors:
   - name: "Sean Oliver"
     publication:

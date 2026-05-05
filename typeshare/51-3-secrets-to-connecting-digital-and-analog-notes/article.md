@@ -1,6 +1,6 @@
 ---
 title: "3 Secrets to Connecting Digital and Analog notes"
-subtitle: "In today's digital world, it's essential to find ways to integrate digital resources with "
+subtitle: "In today's digital world, it's essential to find ways to integrate digital resources with"
 authors:
   - name: "Sean Oliver"
     publication:

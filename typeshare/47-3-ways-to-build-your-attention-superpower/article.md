@@ -1,7 +1,6 @@
 ---
 title: "3 Ways To Build Your Attention Superpower"
-subtitle: "Connecting the dots is key, but it requires focused attention.
-Here are some tips to help "
+subtitle: "Connecting the dots is key, but it requires focused attention."
 authors:
   - name: "Sean Oliver"
     publication:

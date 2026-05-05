@@ -1,6 +1,6 @@
 ---
 title: "I've Written 14 Essays And Here Are 3 Insights I've Earned"
-subtitle: "Week 2 is done. I'd like to share some learnings.Data is one signalI've written about points of view"
+subtitle: "Data helps me learn and grow."
 authors:
   - name: "Sean Oliver"
     publication:

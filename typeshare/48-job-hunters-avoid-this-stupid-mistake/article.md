@@ -1,10 +1,6 @@
 ---
 title: "Job Hunters, Avoid This Stupid Mistake"
-subtitle: "\"Hey, how's your mom?\"
-
-My stepfather asked 25 years after my mother passed away.
-
-That's "
+subtitle: "\"Hey, how's your mom?\""
 authors:
   - name: "Sean Oliver"
     publication:

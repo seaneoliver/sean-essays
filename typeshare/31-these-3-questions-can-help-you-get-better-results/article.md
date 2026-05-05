@@ -1,6 +1,6 @@
 ---
 title: "These 3 Questions Can Help You Get Better Results"
-subtitle: "“Do it, review it, and improve it.” -J.D. Meier \"Getting Results the Agile Way\"If you improved 1% ea"
+subtitle: "If you improved 1% each day, after a year you would be 37x better off than you are today."
 authors:
   - name: "Sean Oliver"
     publication:

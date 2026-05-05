@@ -1,6 +1,6 @@
 ---
 title: "3 Biz Communication Tips For Professionals In 2024"
-subtitle: "Advanced Communication Tips for 2024"
+subtitle: "In this digital stampede where our inboxes are battlegrounds and attention spans are shorter than a TikTok video, here’s the playbook for crafting messages that hit the mark  -  fast."
 authors:
   - name: "Sean Oliver"
     publication:

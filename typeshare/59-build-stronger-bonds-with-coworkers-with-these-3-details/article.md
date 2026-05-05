@@ -1,8 +1,6 @@
 ---
 title: "Build Stronger Bonds With Coworkers With These 3 Details"
-subtitle: "Working with awesome coworkers is like finding a surprise $20 in your pocket.
-
-You can sur"
+subtitle: "Working with awesome coworkers is like finding a surprise $20 in your pocket."
 authors:
   - name: "Sean Oliver"
     publication:

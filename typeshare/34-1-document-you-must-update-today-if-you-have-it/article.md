@@ -1,6 +1,6 @@
 ---
 title: "1 Document You Must Update Today (If You Have It)"
-subtitle: "TLDR: You're amazing.Enough about you for now. One of the best choices I made years ago was creating"
+subtitle: "TLDR: You're amazing."
 authors:
   - name: "Sean Oliver"
     publication:

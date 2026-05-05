@@ -1,6 +1,6 @@
 ---
 title: "How I Fuel My Productivity With Snacks"
-subtitle: "Most productivity content focuses on doing more.I'm going to talk to you about breaks. Specifically,"
+subtitle: "Most productivity content focuses on doing more."
 authors:
   - name: "Sean Oliver"
     publication:

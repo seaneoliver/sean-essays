@@ -1,6 +1,6 @@
 ---
 title: "The Insta-Pot Method To Harvest Ideas From Books"
-subtitle: "This method will help you remember more of what you read.I've been there. I've read book after book "
+subtitle: "This is where your thoughts collide with the text."
 authors:
   - name: "Sean Oliver"
     publication:

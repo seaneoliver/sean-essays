@@ -1,6 +1,6 @@
 ---
 title: "6 Things alumni shippers know that you don’t"
-subtitle: "A few folks are back for their 2nd, 3rd, even 4th cohort of ship30for30.There's wisdom there for tho"
+subtitle: "A few folks are back for their 2nd, 3rd, even 4th cohort of ship30for30."
 authors:
   - name: "Sean Oliver"
     publication:

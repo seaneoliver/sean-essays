@@ -1,8 +1,6 @@
 ---
 title: "Stay Ahead in Your Field: Three Easy Strategies for Effective Note-Taking"
-subtitle: "Everyone wants to be a thought leader. No one has original thoughts.
-
-There is a simple wa"
+subtitle: "Everyone wants to be a thought leader. No one has original thoughts."
 authors:
   - name: "Sean Oliver"
     publication:

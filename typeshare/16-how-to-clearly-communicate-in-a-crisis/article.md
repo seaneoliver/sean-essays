@@ -1,6 +1,6 @@
 ---
 title: "How To Clearly Communicate In A Crisis"
-subtitle: "Want to write messages so clearly you get zero follow-up questions?In 2019 I learned a framework to "
+subtitle: "Want to write messages so clearly you get zero follow-up questions?"
 authors:
   - name: "Sean Oliver"
     publication:

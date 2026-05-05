@@ -1,6 +1,6 @@
 ---
 title: "3 Sanity Saving Remote Work Tools"
-subtitle: "I've had some friction in the last 456+ days working from home.Three tools have saved my sanity, tim"
+subtitle: "Three tools have saved my sanity, time, and money."
 authors:
   - name: "Sean Oliver"
     publication:

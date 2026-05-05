@@ -1,6 +1,6 @@
 ---
 title: "This Approach Might Help You Beat Your Competition"
-subtitle: "The framework I share the most for becoming a top performer is the Counterintelligence framework.The"
+subtitle: "The framework I share the most for becoming a top performer is the Counterintelligence framework."
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,6 +1,6 @@
 ---
 title: "Your Network Is Your Key to the Hidden Job Market"
-subtitle: "Tending to the garden that is your personal network"
+subtitle: "Networking isn’t about collecting contacts."
 authors:
   - name: "Sean Oliver"
     publication:

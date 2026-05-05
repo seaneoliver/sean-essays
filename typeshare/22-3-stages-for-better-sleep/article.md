@@ -1,6 +1,6 @@
 ---
 title: "3 Stages For Better Sleep"
-subtitle: "The CDC reports that adults need 7 hours or more of sleep per night for optimal health.They also rep"
+subtitle: "If you want to improve your sleep, here is an approach based on my own experience."
 authors:
   - name: "Sean Oliver"
     publication:

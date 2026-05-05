@@ -1,6 +1,6 @@
 ---
 title: "1 Opinion On Async Work 99% Of The World Agrees With-But I Do Not"
-subtitle: "No we can't have a quick call"
+subtitle: "This approach not only respects the recipient's time by allowing them to respond at their convenience but also enhances overall communication efficiency."
 authors:
   - name: "Sean Oliver"
     publication:

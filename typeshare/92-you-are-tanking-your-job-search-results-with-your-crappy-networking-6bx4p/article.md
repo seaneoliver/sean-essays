@@ -1,6 +1,6 @@
 ---
 title: "You are tanking your job search results with your crappy networking"
-subtitle: "Failing to connect is crippling your job search.Strong connections open doors.It's not who you know;"
+subtitle: "Failing to connect is crippling your job search."
 authors:
   - name: "Sean Oliver"
     publication:

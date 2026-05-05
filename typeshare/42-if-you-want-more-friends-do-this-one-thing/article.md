@@ -1,6 +1,6 @@
 ---
 title: "If You Want More Friends Do This One Thing"
-subtitle: "I'm the least cool of all my friends.It's something I have refused to accept. Working in marketing, "
+subtitle: "I'm the least cool of all my friends."
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,6 +1,6 @@
 ---
 title: "1 Communication Tip You Should Copy From Trump"
-subtitle: "My first year of consulting I learned to always have a point of view.Clients paid us hundreds of dol"
+subtitle: "My first year of consulting I learned to always have a point of view."
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,6 +1,6 @@
 ---
 title: "Why Are You Discriminating?"
-subtitle: "I'm fine working with racists.I've done it my entire professional life. In my senior year of high sc"
+subtitle: "I'm fine working with racists."
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,6 +1,6 @@
 ---
 title: "Why You Should Stop Giving Advice"
-subtitle: "It's going to save you time and increase your happiness.I've been a bit of a know-it-all and loved g"
+subtitle: "It's going to save you time and increase your happiness."
 authors:
   - name: "Sean Oliver"
     publication:

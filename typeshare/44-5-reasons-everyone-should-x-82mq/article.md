@@ -1,6 +1,6 @@
 ---
 title: "5 Reasons Everyone Should Start A Work Newsletter"
-subtitle: "5 Reasons to start a work newsletter"
+subtitle: "I am a big believer that writing has the power to change your life."
 authors:
   - name: "Sean Oliver"
     publication:

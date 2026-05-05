@@ -1,6 +1,6 @@
 ---
 title: "The Yay Me File-The Ultimate Solution to Boosting Productivity and Celebrating Success"
-subtitle: "After 20+ years of knowledge work, I discovered the simple yet impactful solution to boost"
+subtitle: "After 20+ years of knowledge work, I discovered the simple yet impactful solution to boosting productivity and celebrating success: The Yay Me File."
 authors:
   - name: "Sean Oliver"
     publication:

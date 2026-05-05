@@ -1,6 +1,6 @@
 ---
 title: "Why Does This Regular Guy Create Content?"
-subtitle: "Why does a regular guy like me create content online?A friend asked me why do all these things onlin"
+subtitle: "Why does a regular guy like me create content online?"
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,6 +1,6 @@
 ---
 title: "Steal My Favorite Interview Prep Strategy"
-subtitle: "Crush objections, win interviews."
+subtitle: "One effective interview preparation strategy is proactively identifying the top three to five potential objections an employer might have against hiring you for a specific role."
 authors:
   - name: "Sean Oliver"
     publication:

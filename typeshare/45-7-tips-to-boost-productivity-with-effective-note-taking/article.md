@@ -1,8 +1,6 @@
 ---
 title: "7 Tips to Boost Productivity With Effective Note-taking"
-subtitle: "Note-taking is a critical aspect of productivity and goal achievement.
-
-It helps you captu"
+subtitle: "Note-taking is a critical aspect of productivity and goal achievement."
 authors:
   - name: "Sean Oliver"
     publication:

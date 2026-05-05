@@ -1,6 +1,6 @@
 ---
 title: "1 Work Template To Transform Your Career And Write Your Reviews With Ease"
-subtitle: "Want a simple but game-changing way to boost your productivity and celebrate success? Let me introdu"
+subtitle: "Want a simple but game-changing way to boost your productivity and celebrate success?"
 authors:
   - name: "Sean Oliver"
     publication:

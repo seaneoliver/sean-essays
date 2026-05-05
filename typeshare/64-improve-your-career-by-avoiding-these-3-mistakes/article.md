@@ -1,6 +1,6 @@
 ---
 title: "Improve Your Career By Avoiding These 3 Mistakes"
-subtitle: "In the corporate world, too much employee experience is wasted. It's an issue many overlook, but the"
+subtitle: "In the corporate world, too much employee experience is wasted."
 authors:
   - name: "Sean Oliver"
     publication:

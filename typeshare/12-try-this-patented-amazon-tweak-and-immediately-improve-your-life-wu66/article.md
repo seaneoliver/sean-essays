@@ -1,6 +1,6 @@
 ---
 title: "Try this patented Amazon tweak and immediately improve your life"
-subtitle: "Have you noticed how easy Amazon makes it to buy stuff? Back in the day, buying stuff onli"
+subtitle: "Have you noticed how easy Amazon makes it to buy stuff?"
 authors:
   - name: "Sean Oliver"
     publication:

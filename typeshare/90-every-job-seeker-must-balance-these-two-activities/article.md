@@ -1,6 +1,6 @@
 ---
 title: "Every Job Seeker Must Balance These Two Activities"
-subtitle: "Striking the balance between clicking apply and talking to folks"
+subtitle: "There's no one-size-fits-all solution to job searching."
 authors:
   - name: "Sean Oliver"
     publication:

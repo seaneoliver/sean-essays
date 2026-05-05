@@ -1,8 +1,6 @@
 ---
 title: "3 Ways to Create a Success Flywheel With Your Notes"
-subtitle: "Your notes can be a superpower for your success; here's how.
-
-The following three practice"
+subtitle: "Your notes can be a superpower for your success; here's how."
 authors:
   - name: "Sean Oliver"
     publication:

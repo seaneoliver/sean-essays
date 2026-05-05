@@ -1,6 +1,6 @@
 ---
 title: "How to Set Up Your Note-Taking System Without These 3 Mistakes"
-subtitle: "A Zettlekasten can accelerate your personal and professional development. Unfortunately, I"
+subtitle: "You can avoid these mistakes and speed up your adoption of what can be your knowledge superpower."
 authors:
   - name: "Sean Oliver"
     publication:

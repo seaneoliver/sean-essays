@@ -1,6 +1,6 @@
 ---
 title: "10 Things I Can't Live Without "
-subtitle: "In 400 days working from home, I learned what 10 things I absolutely can't live without.This is that"
+subtitle: "In 400 days working from home, I learned what 10 things I absolutely can't live without."
 authors:
   - name: "Sean Oliver"
     publication:

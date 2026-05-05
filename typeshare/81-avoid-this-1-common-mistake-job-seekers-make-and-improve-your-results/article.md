@@ -1,6 +1,6 @@
 ---
 title: "Avoid This 1 Common Mistake Job Seekers Make And Improve Your Results"
-subtitle: "Get specific"
+subtitle: "Job hunting can feel like talking to someone with earbuds in, but you don't know it - are you even sure anyone out there hears you?"
 authors:
   - name: "Sean Oliver"
     publication:

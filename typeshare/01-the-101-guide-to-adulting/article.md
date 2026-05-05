@@ -1,6 +1,6 @@
 ---
 title: "The 101 Guide To Adulting"
-subtitle: "I'm going to share with you a method I've used to make managing life easier.\"Life\" is a word that co"
+subtitle: "I'm going to share with you a method I've used to make managing life easier."
 authors:
   - name: "Sean Oliver"
     publication:

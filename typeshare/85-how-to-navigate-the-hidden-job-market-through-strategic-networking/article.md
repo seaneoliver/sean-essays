@@ -1,6 +1,6 @@
 ---
 title: "How to Navigate the Hidden Job Market Through Strategic Networking"
-subtitle: "Master the hidden job market"
+subtitle: "In today's job market many roles are quietly passed along through referrals and never see the light of a job board."
 authors:
   - name: "Sean Oliver"
     publication:

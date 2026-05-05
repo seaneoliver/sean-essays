@@ -1,6 +1,6 @@
 ---
 title: "3 Steps You Probably Missed To Crush Toxic Contacts "
-subtitle: "Not everyone in your circle is a true fan.You have contacts that are enemies in disguise. People kee"
+subtitle: "Not everyone in your circle is a true fan."
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,6 +1,6 @@
 ---
 title: "25 Things Harder Than Writing An Atomic Essay Every Day"
-subtitle: "People excel at coming up with excellent reasons for whatever we do.Some are reasons, but some are e"
+subtitle: "People excel at coming up with excellent reasons for whatever we do."
 authors:
   - name: "Sean Oliver"
     publication:

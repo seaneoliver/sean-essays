@@ -1,6 +1,6 @@
 ---
 title: "How To Tackle Overwhelm Step-By-Step"
-subtitle: "Overwhelm can sneak up on you.It can feel like you're being swept away in a current of tasks, ideas,"
+subtitle: "Overwhelm can sneak up on you."
 authors:
   - name: "Sean Oliver"
     publication:

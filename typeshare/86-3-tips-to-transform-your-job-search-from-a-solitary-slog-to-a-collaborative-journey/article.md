@@ -1,6 +1,6 @@
 ---
 title: "3 Tips to Transform Your Job Search from a Solitary Slog to a Collaborative Journey"
-subtitle: "Play the job search on co-op"
+subtitle: "They turn the solitary slog of job hunting into a team sport."
 authors:
   - name: "Sean Oliver"
     publication:

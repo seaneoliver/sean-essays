@@ -1,6 +1,6 @@
 ---
 title: "3 ways you can improve your sleep today"
-subtitle: "These three changes have dramatically improved the quality of my sleep.If you've issues with:Light s"
+subtitle: "These three changes have dramatically improved the quality of my sleep."
 authors:
   - name: "Sean Oliver"
     publication:

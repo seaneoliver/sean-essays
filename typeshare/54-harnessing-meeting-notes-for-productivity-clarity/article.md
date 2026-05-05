@@ -1,6 +1,6 @@
 ---
 title: "Harnessing Meeting Notes for Productivity & Clarity"
-subtitle: "Effectively taking meeting notes is a high-impact skill that can significantly enhance pro"
+subtitle: "Effectively taking meeting notes is a high-impact skill that can significantly enhance productivity and foster clarity within a team."
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,6 +1,6 @@
 ---
 title: "What I Learned After 7 Essays"
-subtitle: "In the last week, I've written more words than I have all year.I've learned about headlines, writing"
+subtitle: "In the last week, I've written more words than I have all year."
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,6 +1,6 @@
 ---
 title: "1 Thing An Immigrant Nurse Taught Me About Perspective"
-subtitle: "The lesson starts with a simple question, \"How are you doing\"?For most people, it's a polite courtes"
+subtitle: "The lesson starts with a simple question, \"How are you doing\"?"
 authors:
   - name: "Sean Oliver"
     publication:

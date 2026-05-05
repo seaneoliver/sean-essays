@@ -1,6 +1,6 @@
 ---
 title: "3 Science-Backed Reasons For Analog Notes"
-subtitle: "Science backs up the significant advantages of written notes over their typed counterparts"
+subtitle: "Science backs up the significant advantages of written notes over their typed counterparts."
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,6 +1,6 @@
 ---
 title: "4 Job Search Council Steps For Unemployed Professionals To Land Your Next Job"
-subtitle: "4 activities that helped me conduct an effective job search"
+subtitle: "The Job Search Council's success stories can be distilled into Phyl Terry's Framework For Landing Your Dream Job."
 authors:
   - name: "Sean Oliver"
     publication:

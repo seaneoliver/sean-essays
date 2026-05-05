@@ -1,6 +1,6 @@
 ---
 title: "5 Ways To Make Meaningful Connections"
-subtitle: "5 Ways To Make Meaningful Connections With Your Contacts"
+subtitle: "Did you know that 85% of jobs are filled through networking?"
 authors:
   - name: "Sean Oliver"
     publication:

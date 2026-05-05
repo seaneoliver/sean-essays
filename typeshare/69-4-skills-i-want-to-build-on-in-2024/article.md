@@ -1,6 +1,6 @@
 ---
 title: "4 Skills I Want To Build On In 2024"
-subtitle: "Generative AI.  Learning how to apply AI to build custom GPTs for all of my mentorship &amp; coachin"
+subtitle: "What skill(s) will you build next year?"
 authors:
   - name: "Sean Oliver"
     publication:

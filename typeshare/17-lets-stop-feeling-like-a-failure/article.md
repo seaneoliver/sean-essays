@@ -1,6 +1,6 @@
 ---
 title: "Let's stop feeling like a failure"
-subtitle: "Do you know what your natural talents are?Do you have a gift? I had an early artistic talent. That d"
+subtitle: "Do you know what your natural talents are?"
 authors:
   - name: "Sean Oliver"
     publication:

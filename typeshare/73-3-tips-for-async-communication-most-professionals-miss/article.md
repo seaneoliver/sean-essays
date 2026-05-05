@@ -1,6 +1,6 @@
 ---
 title: "3 Tips For Async Communication Most Professionals Miss"
-subtitle: ""
+subtitle: "Asynchronous communication is the secret sauce for productivity in the modern workplace."
 authors:
   - name: "Sean Oliver"
     publication:

@@ -1,6 +1,6 @@
 ---
 title: "Unlock 3 Winning Outcomes with a Consistent Note-Taking System"
-subtitle: "A consistent note-taking system offers significant benefits that can create an unfair adva"
+subtitle: "A consistent note-taking system offers significant benefits that can create an unfair advantage for your personal and professional growth."
 authors:
   - name: "Sean Oliver"
     publication:

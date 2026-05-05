@@ -1,6 +1,6 @@
 ---
 title: "If You Want To Be More Effective, You Absolutely Need To Read This Book Now"
-subtitle: "There is power to fuel your effectiveness in the book \"Managing Oneself\" by Peter Drucker.Born in 19"
+subtitle: "Recording decisions and predictions you’ve made about events gives you an advantage."
 authors:
   - name: "Sean Oliver"
     publication:
